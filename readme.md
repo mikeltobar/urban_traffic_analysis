@@ -82,7 +82,7 @@ Results are the following:
 
 The accumulated knowledge allows us to have a picture of the traffic congestion in the district of Chamberi, and of its critical points.
 
-![critical points](https://user-images.githubusercontent.com/81832365/209413927-74307e4a-cab8-4a29-90f6-a4918850e294.png)
+![critical points](https://user-images.githubusercontent.com/81832365/209414045-68579f36-363a-4c2a-a876-b9483da81cbf.jpg)
 
 ## Conclusions
 
