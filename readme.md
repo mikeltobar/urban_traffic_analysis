@@ -82,6 +82,8 @@ Results are the following:
 
 The accumulated knowledge allows us to have a picture of the traffic congestion in the district of Chamberi, and of its critical points.
 
+![critical points](https://user-images.githubusercontent.com/81832365/209413927-74307e4a-cab8-4a29-90f6-a4918850e294.png)
+
 ## Conclusions
 
 The models are satisfactory, and the exportable ones (4 and 5) prove useful in other cities. Moreover, the chosen predictors explain pretty accurately the variance, and they are easily portable. This is very interesting for cities that lack an extensive traffic detection network or that don't have one whatsoever (model 5 is capable of predicting traffic data without any traffic measurement).
